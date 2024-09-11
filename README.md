@@ -83,3 +83,12 @@ Pendant mon temps libre, j'aime explorer de nouvelles technologies et contribuer
 
 [![Visit my website](https://img.shields.io/badge/Visit-Website-green)](https://jimmylan.fr)
 [![Visit Andromed](https://img.shields.io/badge/Visit-Andromed-blue)](https://andromed.fr)
+
+
+# SEO STATS : 
+
+## Transport automoto
+![transport-automoto](https://github.com/user-attachments/assets/c965f3f1-39d5-4481-b7b7-60c54b5852fc)
+
+## Jimmylan.fr
+![jimmylan-fr](https://github.com/user-attachments/assets/e6e0a241-93e0-4275-9ac7-136c2d0e075c)
