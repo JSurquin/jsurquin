@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille actuellement sur [transport-automoto](transport-automoto.fr)
 
-- 🌱 J'apprend actuellement **Angular 18**
+- 🌱 J'apprend actuellement **Flutter, Swift et Angular 19**
 
 - 👯 Je cherche à collaborer **sur des projets vivants**
 
