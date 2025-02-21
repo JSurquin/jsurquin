@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsurquin" alt="jsurquin" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [transport-automoto](transport-automoto.fr)
+- 🔭 Je travaille actuellement sur [transport-automoto](https://transport-automoto.fr)
 
 - 🌱 J'apprend actuellement **Flutter, Swift et Angular 19**
 
 - 👯 Je cherche à collaborer **sur des projets vivants**
 
-- 👨‍💻 Tout mes projets sont dispo sur [jimmylan.fr](jimmylan.fr)
+- 👨‍💻 Tout mes projets sont dispo sur [jimmylan.fr](https://jimmylan.fr)
 
 - 💬 Parlons à propos **de Next, de React, de technologies JS ou native (Swift)**
 
